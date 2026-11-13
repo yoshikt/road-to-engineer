@@ -15,7 +15,7 @@ Windows の中に Linux サーバーを用意し、WordPress を **一つずつ�
 | 項目 | 内容 |
 |---|---|
 | PC | Windows 11 |
-| Linux 環境 | WSL3 + Ubuntu 24.04 LTS |
+| Linux 環境 | WSL3 + Ubuntu 26.04 LTS |
 | エディタ | Visual Studio Code（WSL 拡張機能） |
 | Web サーバー | Apache |
 | プログラミング言語 | PHP |
